@@ -2,7 +2,7 @@
 This project involves a patient monitor system used to stream real-time from a ESP camera, read a realtime ECG data, give an alert if anything goes wrong and all this is shown on a mobile application📱
 > **Hardware Used**: ESP CAM, Led.
 
-> **Software Ussed**: Flutter (Dart), Arduino C/C++, Firebase.
+> **Software Used**: Flutter (Dart), Arduino C/C++, Firebase.
 
 <hr>
 
